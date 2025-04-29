@@ -30,7 +30,7 @@ Our GNN-LSTM model achieved:
 Superior performance compared to traditional machine learning models
 Particularly strong results in predicting high severity crash cases
 
-For detailed results, refer to the evaluation notebooks in the notebooks/ directory.
+
 🔬 Model Architecture
 
 The hybrid GNN-LSTM architecture consists of:
