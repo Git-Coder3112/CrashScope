@@ -1,5 +1,7 @@
 Road Crash Injury Severity Prediction Using Hybrid Graph Neural Networks
+
 📝 Overview
+
 This repository contains the implementation of a novel hybrid Graph Neural Network and Long Short-Term Memory (GNN-LSTM) model for predicting injury severity in traffic accidents. By representing crash data as a graph and leveraging both spatial and temporal patterns, our model achieves 99.9% accuracy, outperforming traditional machine learning approaches.
 Show Image
 
